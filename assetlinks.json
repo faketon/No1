@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tourkrub.staging",
+    "sha256_cert_fingerprints":
+    ["13:B7:82:A4:78:B4:77:4A:7C:82:99:A4:89:A6:E5:A7:F9:B0:60:6B:52:7D:94:6C:7E:B1:7F:2F:FC:58:07:F6"]
+  }
+}]
